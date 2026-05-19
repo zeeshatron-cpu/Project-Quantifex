@@ -1,7 +1,6 @@
 # Project Quantifex
 ### Machine Optimization of Quantum Algorithms on Noisy Hardware
 
-> 🥇 **1st Place — WSSEF Science Fair 2026**
 
 Quantum circuits degrade under real-world noise, making reliable computation on today's NISQ-era hardware a fundamental challenge. This project tests whether **Bayesian Optimization (BO)** can automatically discover QFT/AQFT circuit configurations that outperform both random search and human-guided tuning — using IBM's real hardware noise models.
 
