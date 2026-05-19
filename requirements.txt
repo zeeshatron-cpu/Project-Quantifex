@@ -1,0 +1,10 @@
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+numpy
+matplotlib
+pandas
+scikit-learn
+scikit-optimize
+scipy
+jupyter

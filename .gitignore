@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Results (large files — regenerate by running notebook)
+results/
+
+# Secrets — NEVER commit your token
+.env
+ibm_token.txt
